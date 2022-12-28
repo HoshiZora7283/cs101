@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	int i=4;
+	int i=10;
 	if((i&-i)==i){
 		printf("TRUE");
 	}
