@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	int i=11;
+	int i=10;
 	if(i%2==0){
 		printf("even");
 	}
