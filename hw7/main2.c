@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 	int i=0;
-	double pi=4.0f;
+	double pi=4.0;
 	for(int x=3;x<=1000000;x+=2){
 		if(i==0){
 			pi=pi-(4.0/x);
